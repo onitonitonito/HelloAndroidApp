@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello Android App</string>
+    <string name="greetingHelloWorld">..... WOW!! CONGRATULATION!!!...\nNOW, Your Hello World is Activated!</string>
+</resources>
